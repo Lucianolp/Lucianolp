@@ -1,0 +1,2 @@
+👋 Hola, mi nombre es Luciano, soy un psicólogo al que le apasiona la resolución de problemas y la búsqueda constante de soluciones creativas. Esto, junto con mi amor por la tecnología, me ha impulsado a capacitarme en el manejo de softwares de estadística aplicados a investigación y más recientemente, en el desarrollo web. Actualmente, curso un programa intensivo, donde aprendo a utilizar tecnologías como HTML, CSS, JavaScript, React y Firebase. Me motiva el aprendizaje constante de todo aquello que pueda aumentar mis herramientas profesionales.
+
